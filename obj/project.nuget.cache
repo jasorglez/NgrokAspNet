@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/XPmdtbydFJ+af49X67K3goAIpm6xqv9a46uCvUow1C8SKY6OWt42Q7kc6+BB1pwLmQI8UPZxtcXpJGeN8ZKow==",
+  "success": true,
+  "projectFilePath": "C:\\Developer\\Visual Studio 2022\\c# and aspnet\\NgrokAspNet\\NgrokAspNet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JSoriano\\.nuget\\packages\\cliwrap\\3.4.4\\cliwrap.3.4.4.nupkg.sha512"
+  ],
+  "logs": []
+}
